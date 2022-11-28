@@ -1,0 +1,126 @@
+1669653423625	geckodriver	INFO	Listening on 127.0.0.1:63951
+1669653426744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilet8wNRG"
+1669653444135	Marionette	INFO	Marionette enabled
+1669653444148	Marionette	INFO	Listening on port 63963
+Read port: 63963
+Read port: 63963
+1669653445743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilet8wNRG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=526193, y=524394, w=15, h=918)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=526193, y=524394, w=15, h=918)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LeUfPQbAAAAAMHY5HEhawJHjcRnavNIIv4FhdDc&co=aHR0cHM6Ly93d3cuYWJoaWJ1cy5jb206NDQz&hl=en&v=Km9gKuG06He-isPsP6saG8cn&size=invisible&cb=leoh38fquzj4, line 183: ReferenceError: recaptcha is not defined
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1290
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x4765b2a]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x4768522]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d95390]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d70ea6]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13ed2e2]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x4df26]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1cec18e]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1597862]
+#09: ??? (???:???)
+out of memory: 0x0000000000100000 bytes requested
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Parent 20428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 20428, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1669653508465	Marionette	INFO	Stopped listening on port 63963
+[Parent 20428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669653516781	geckodriver	INFO	Listening on 127.0.0.1:64056
+1669653519736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledMtDcC"
+1669653551533	Marionette	INFO	Marionette enabled
+1669653551607	Marionette	INFO	Listening on port 64070
+Read port: 64070
+1669653553345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledMtDcC\\search.json.mozlz4", (void 0)))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1669653574167	Marionette	INFO	Stopped listening on port 64070
+[Parent 101624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669653579604	geckodriver	INFO	Listening on 127.0.0.1:64140
+1669653582557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBi6OR6"
+1669653596862	Marionette	INFO	Marionette enabled
+1669653596879	Marionette	INFO	Listening on port 64152
+Read port: 64152
+Read port: 64152
+1669653598638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBi6OR6\\search.json.mozlz4", (void 0)))
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=526193, y=524394, w=15, h=918)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create StagingTexture: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Handling webrender error 3
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=1024, h=512)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=896, h=512)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=1024, h=512)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=896, h=512)
+[GFX1-]: MapTile failed aValidRect: Rect(x=732, y=0, w=131, h=37)
+[GFX1-]: MapTile failed aValidRect: Rect(x=732, y=418, w=131, h=94)
+[GFX1-]: MapTile failed aValidRect: Rect(x=106, y=0, w=284, h=55)
+[GFX1-]: MapTile failed aValidRect: Rect(x=747, y=20, w=128, h=14)
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Handling webrender error 2
+[GFX1-]: Fallback remains SW-WR
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1669653904837	Marionette	INFO	Stopped listening on port 64152
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=2070bc65a00"
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 96740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 96740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669655385888	geckodriver	INFO	Listening on 127.0.0.1:63140
+1669655388926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilet6xHew"
+1669655409755	Marionette	INFO	Marionette enabled
+1669655409776	Marionette	INFO	Listening on port 63152
+Read port: 63152
+Read port: 63152
+Read port: 63152
+1669655412727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilet6xHew\\search.json.mozlz4", (void 0)))
+1669655457396	Marionette	INFO	Stopped listening on port 63152
+[Parent 74808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NS_ERROR_FAILURE
+1669655466683	geckodriver	INFO	Listening on 127.0.0.1:63243
+1669655469682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileUAtO85"
+1669655478866	Marionette	INFO	Marionette enabled
+1669655478879	Marionette	INFO	Listening on port 63255
+Read port: 63255
+Read port: 63255
+1669655480699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileUAtO85\\search.json.mozlz4", (void 0)))
+1669655514641	Marionette	INFO	Stopped listening on port 63255
+[Parent 6032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NS_ERROR_FAILURE
+1669655520036	geckodriver	INFO	Listening on 127.0.0.1:63348
+1669655522970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4RQS53"
+1669655529748	Marionette	INFO	Marionette enabled
+1669655529778	Marionette	INFO	Listening on port 63361
+Read port: 63361
+Read port: 63361
+1669655531544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4RQS53\\search.json.mozlz4", (void 0)))
+1669655549160	Marionette	INFO	Stopped listening on port 63361
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NS_ERROR_FAILURE
